@@ -1,0 +1,6 @@
+1. Thiết kế giao diện.
+	+ Thiết kế các icon, button,... cơ bản
+	+ Add âm thanh.
+
+2. Thiếu kế gói câu hỏi
+

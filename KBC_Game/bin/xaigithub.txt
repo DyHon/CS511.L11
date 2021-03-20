@@ -1,0 +1,36 @@
+đầu tiên là lấy link trên git hub
+xong sau đó thì nhìn code t viết nè
+( git clone <link>  )
+
+
+tạo project 2 nhá :V 
+
+tạo folder
+
+rùi tiếp theo 
+
+mỗi project m phải có 1 cái file để giới thiệu xem nó là cái gì 
+thì đó là file README.md
+viết markdown
+
+sau đó thì nó sẽ báo có thay đổi
+
+thấy số 1 ko?
+
+okei tiếp theo m bấm vô dấu công á 
+
+phần staged changes là là những thứ nó chuẩn bị đưa vô local của m 
+
+tại vì sẽ có những file m ko cần up lên trên git
+
+xong tiếp theo là nhập vào khung message cái thứ m diễn tả tại sao m add thằng đó 
+
+xong rùi bấm commit 
+
+bấm dấu commit xong thì nó đã đc lưu vào local rùi 
+nhưng ko có sync lleen github
+
+m phải push nó lên trên đây
+
+ code cũng thế 
+phải ghi rõ ràng là m up lên để làm gì để mai mốt xem lại m mới hiểu 
